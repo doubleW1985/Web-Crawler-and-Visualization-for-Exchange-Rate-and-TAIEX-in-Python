@@ -4,7 +4,7 @@
   <br>
   **【Crawling Exchange Rate from BOT and write into JSON format】**
   <br>
-  Putputs as `/Python crawler_FXvsTAIEX/ExchangeRate/USD6m.json`
+  Output files as `/Python crawler_FXvsTAIEX/ExchangeRate/USD6m.json`
   <br>
   <br>
   `《Demo》`
