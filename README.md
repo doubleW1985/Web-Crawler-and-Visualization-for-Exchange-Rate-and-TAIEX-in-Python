@@ -23,4 +23,4 @@
   ![Sample](https://github.com/doubleW1985/Web-Crawler-and-Visualization-with-Exchange-Rate-and-TAIEX-in-Python/blob/master/Python%20crawler_FXvsTAIEX/Pictures/TAIEXvsUSD.png)
   <br>
   <br>  
-  #RESTful Web Service<br>#GET<br>#JSON<br>#Bootstrap<br>#Web Workers<br>#MultiThreading<br>#AJAX
+  #requests<br>#BeautifulSoup<br>#find(find_all)<br>#os<br>#json<br>#csv<br>#pandas<br>#DataFrame<br>#DataFrame<br>#matplotlib
