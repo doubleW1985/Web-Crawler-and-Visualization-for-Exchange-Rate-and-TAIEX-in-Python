@@ -20,20 +20,7 @@
   <br>
   Output file as [/Python crawler_FXvsTAIEX/Pictures/](https://github.com/doubleW1985/Web-Crawler-and-Visualization-with-Exchange-Rate-and-TAIEX-in-Python/tree/master/Python%20crawler_FXvsTAIEX/Pictures)
   <br>
-  ![Alt text](https://github.com/doubleW1985/Web-Crawler-and-Visualization-with-Exchange-Rate-and-TAIEX-in-Python/blob/master/Python%20crawler_FXvsTAIEX/Pictures/TAIEXvsUSD.png)
+  ![Sample](https://github.com/doubleW1985/Web-Crawler-and-Visualization-with-Exchange-Rate-and-TAIEX-in-Python/blob/master/Python%20crawler_FXvsTAIEX/Pictures/TAIEXvsUSD.png)
   <br>
   <br>  
-  
-  
-  
-  
-  
-  
-  
-  
-  `《Demo》`
-  <br>
-  https://www.youtube.com/watch?v=lvncfE3xaBU&feature=youtu.be
-  <br>
-  <br>
   #RESTful Web Service<br>#GET<br>#JSON<br>#Bootstrap<br>#Web Workers<br>#MultiThreading<br>#AJAX
