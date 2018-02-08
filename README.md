@@ -4,8 +4,8 @@
   <br>
   **【Crawling Exchange Rate from Bank of Taiwan and write into JSON format】**
   <br>
-  Output file as `/Python crawler_FXvsTAIEX/ExchangeRate/USD6m.json`
-  <br>
+  Output file as [/Python crawler_FXvsTAIEX/ExchangeRate/USD6m.json](https://github.com/doubleW1985/Web-Crawler-and-Visualization-with-Exchange-Rate-and-TAIEX-in-Python/blob/master/Python%20crawler_FXvsTAIEX/ExchangeRate/USD6m.json)
+  <br>
   <br>
 * /Python crawler_FXvsTAIEX/fullCrawler_TAIEX.py
   <br>
