@@ -2,11 +2,27 @@
 
 * /Python crawler_FXvsTAIEX/fullCrawler_FX.py
   <br>
-  **【Crawling Exchange Rate from BOT and write into JSON format】**
+  **【Crawling Exchange Rate from Bank of Taiwan and write into JSON format】**
   <br>
   Output file as `/Python crawler_FXvsTAIEX/ExchangeRate/USD6m.json`
   <br>
   <br>
+* /Python crawler_FXvsTAIEX/fullCrawler_FX.py
+  <br>
+  **【Crawling Exchange Rate from Bank of Taiwan and write into JSON format】**
+  <br>
+  Output file as `/Python crawler_FXvsTAIEX/ExchangeRate/USD6m.json`
+  <br>
+  <br>
+  
+  
+  
+  
+  
+  
+  
+  
+  
   `《Demo》`
   <br>
   https://www.youtube.com/watch?v=lvncfE3xaBU&feature=youtu.be
