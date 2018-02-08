@@ -20,7 +20,7 @@
   <br>
   Output file as [/Python crawler_FXvsTAIEX/Pictures/](https://github.com/doubleW1985/Web-Crawler-and-Visualization-with-Exchange-Rate-and-TAIEX-in-Python/tree/master/Python%20crawler_FXvsTAIEX/Pictures)
   <br>
-  ![Sample](https://github.com/doubleW1985/Web-Crawler-and-Visualization-with-Exchange-Rate-and-TAIEX-in-Python/blob/master/Python%20crawler_FXvsTAIEX/Pictures/TAIEXvsUSD.png)
+  ![Sample](/Python crawler_FXvsTAIEX/Pictures/TAIEXvsUSD.png)
   <br>
   <br>  
-  #requests<br>#BeautifulSoup<br>#find(find_all)<br>#os<br>#json<br>#csv<br>#pandas<br>#DataFrame<br>#DataFrame<br>#matplotlib
+  #requests<br>#BeautifulSoup<br>#find(find_all)<br>#os<br>#json<br>#csv<br>#pandas<br>#DataFrame<br>#matplotlib
