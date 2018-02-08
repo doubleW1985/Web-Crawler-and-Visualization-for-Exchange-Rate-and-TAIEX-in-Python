@@ -14,7 +14,15 @@
   Output file as [/Python crawler_FXvsTAIEX/TAIEX/201801.csv](https://github.com/doubleW1985/Web-Crawler-and-Visualization-with-Exchange-Rate-and-TAIEX-in-Python/blob/master/Python%20crawler_FXvsTAIEX/TAIEX/201801.csv)
   <br>
   <br>
-  
+* /Python crawler_FXvsTAIEX/fullChart_FXvsTAIEX.py
+  <br>
+  **【Get files from ExchangeRate and TAIEX folders, then convert into DataFrame and Visualization】**
+  <br>
+  Output file as [/Python crawler_FXvsTAIEX/Pictures/](https://github.com/doubleW1985/Web-Crawler-and-Visualization-with-Exchange-Rate-and-TAIEX-in-Python/tree/master/Python%20crawler_FXvsTAIEX/Pictures)
+  <br>
+  ![Alt text](https://github.com/doubleW1985/Web-Crawler-and-Visualization-with-Exchange-Rate-and-TAIEX-in-Python/blob/master/Python%20crawler_FXvsTAIEX/Pictures/TAIEXvsUSD.png)
+  <br>
+  <br>  
   
   
   
