@@ -1,4 +1,4 @@
-## Crawling Exchange Rate and Stock Market information with Python, then Visualization
+## Web Crawler and Visualization for Exchange Rate and TAIEX in Python
 
 * /Python crawler_FXvsTAIEX/`fullCrawler_FX.py`
   <br>
